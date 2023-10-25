@@ -1,8 +1,8 @@
-# EDA_calidad_vida_CCAA
+# **EDA_calidad_vida_CCAA**
 ## Descripción.
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el nivel de vida en las Comunidades Autónomas de España. El objetivo principal es analizar y visualizar datos relacionados con la calidad de vida en diferentes regiones de España. Se exploran indicadores como ingresos, educación, salud y otros factores que influyen en el nivel de vida.
 
-## Contenido.
+## **Contenido**.
 ### Datos:
 Los .csv utilizados se encuentran en la carpeta "data".
 
@@ -15,7 +15,7 @@ La carpeta "visualizaciones" contiene gráficos y visualizaciones generadas dura
 ### Presentación:
 El archivo "presentacion_EDA" contiene la presentación del proyecto.
 
-## Requisitos.
+## **Requisitos.**
 Para ejecutar el código del EDA, necesitarás tener instaladas las siguientes bibliotecas de Python:
 
 - Pandas
